@@ -10,15 +10,11 @@ img{
     display: block;
 }
 
-.slides{
-    border-radius: 25%;
-}
-
-.slides figure{
+figure{
     margin: 0;
 }
 
-.slides a{
+.buttons a{
     text-decoration: none;
     color:mistyrose;
     background-color:indianred;
