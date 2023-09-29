@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color:cornsilk;
+}
+
+h1{
+    color: indianred;
+}
+img{
+    display: block;
+}
+
+.slides{
+    border-radius: 25%;
+}
+
+.slides figure{
+    margin: 0;
+}
+
+.slides a{
+    text-decoration: none;
+    color:mistyrose;
+    background-color:indianred;
+    border-radius: 10%;
+    padding: 0.5%;
+    margin: 10%;
+}
